@@ -87,4 +87,4 @@ class person {
   }
 }
 const pers = new person ("Витя",34, "Заводской");
-console.log(pers)
+console.log(p
